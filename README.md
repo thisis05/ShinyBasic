@@ -3,8 +3,8 @@
 ## R Shiny Basic Manual
 
 
-## 📕textbook URL : 
-(Tool : R qmd)
+## 📕 textbook URL
+https://thisis05.github.io/ShinyBasic/textbook (Tool : R qmd)
 
 ## 목차 
 ### 1. Shiny란 ?

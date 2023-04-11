@@ -1,0 +1,14 @@
+name: ShinyBasic
+title: ShinyBasic
+username:
+account: sample05
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8848672
+bundleId: 7087509
+url: https://sample05.shinyapps.io/ShinyBasic/
+when: 1681434242.06397
+lastSyncTime: 1681434242.064
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: _quarto.yml|.RData|README.md|textbook.qmd|docs|image|textbook_files
